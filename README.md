@@ -1,3 +1,4 @@
+<!-- <<<<<<< HEAD -->
 <div align="center">
       <img width="226" alt="image" src="https://github.com/pattjoshi/Multi_vondor_E_shop/assets/78966839/51c0517e-e5e6-4a65-a520-9e5a52095fb9">
 
@@ -545,3 +546,6 @@ PORT = 4000
 
 
 @copyright by Om Pattjoshi 2023
+<!-- ======= -->
+<!-- # Mern-Stack-project -->
+<!-- >>>>>>> e1502f6c16796f302675a5a5324525766ec74ae1 -->
