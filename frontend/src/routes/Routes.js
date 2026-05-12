@@ -18,6 +18,9 @@ import OrderDetailsPage from "../pages/OrderDetailsPage";
 import TrackOrderPage from "../pages/TrackOrderPage";
 import UserInbox from "../pages/UserInbox";
 
+import ForgotPasswordPage from "../pages/ForgotPasswordPage";
+import ResetPasswordPage from "../pages/ResetPasswordPage";
+
 /* ⭐ NEW IMPORTS FOR SMART STYLE AI */
 import Quiz from "../pages/Quiz";
 import AIRecommendations from "../components/SmartAI/Recommendations";
@@ -27,6 +30,8 @@ import AIDashboard from "../components/SmartAI/Dashboard";
 export {
   LoginPage,
   SignupPage,
+  ForgotPasswordPage,
+  ResetPasswordPage,
   ActivationPage,
   HomePage,
   ProductsPage,

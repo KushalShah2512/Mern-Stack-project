@@ -28,7 +28,7 @@
     "mongoose": "^7.0.0",
     "multer": "^1.4.5-lts.1",
     "node-vibrant": "^4.0.3",
-    "nodemailer": "^6.9.1",
+    "nodemailer": "^6.10.1",
     "nodemon": "^2.0.20",
     "onnxruntime-node": "^1.23.2",
     "sharp": "^0.34.5",
